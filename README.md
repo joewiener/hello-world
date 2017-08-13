@@ -3,4 +3,4 @@ just another repository
 
 Hi Everyboody !
 
-This is just learn about GitHub and repositories.
+This is just to learn about GitHub and repositories.
